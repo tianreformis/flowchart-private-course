@@ -36,7 +36,6 @@ public class MainDish {
             else {
                 System.out.println("Angka diabaikan");
             }
-
             System.out.println("Jumlah Main Dish Dipesan : " + mainDishCount);
             System.out.println("Jumlah Snack Dipesan : " + snackCount);
 
